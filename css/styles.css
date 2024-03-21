@@ -545,7 +545,8 @@ footer {
 }
 
 .project-image {
-    float: left
+    /* display: none; */
+    float: left;
 }
 
 .project-info {
@@ -836,10 +837,6 @@ footer {
     .education-block h3,
     .education-block span {
         float: none
-    }
-
-    .project-image {
-        display: none
     }
 
     .project-info {

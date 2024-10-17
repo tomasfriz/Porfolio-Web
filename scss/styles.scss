@@ -27,7 +27,7 @@ $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
 $background: #fff;
-$background-alt: #f2f2f5;
+$background-alt: #a0cfee;
 
 // Define border colors
 $border: #dcd9d9;
@@ -340,7 +340,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/banner.jpg);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
